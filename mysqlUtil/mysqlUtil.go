@@ -63,6 +63,8 @@ func runSelect(mSql string){
 			//log.Printf("%s = %s", k, v)
 			LoggingText +=  k + " = " + v+"\n"
 		}
+
+		LoggingText+="<--------->\n";
 	}
 	if(LoggingText != ""){
 		LoggingText = mSql+"\n"+LoggingText
