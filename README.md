@@ -1,5 +1,9 @@
 # crontab-mysqlLock-go
 
+- Regularly check MySQL lock table status
+
+This project only needs a simple configuration to check the MySQL table lock status on a regular basis
+
 
 - How to configure ?
 
