@@ -3,7 +3,7 @@
 - Regularly check MySQL lock table status
 
 This project only needs a simple configuration to check the MySQL table lock status on a regular basis
-
+Help DBA analyze what causes the transaction lock table
 
 - How to configure ?
 
