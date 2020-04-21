@@ -46,6 +46,4 @@ go build main.go
 这个文件名可以在 test.yaml 中配置
 ```
 
-- 欢迎合作开发 
 
-https://github.com/jasondayee/crontab-mysqlLock-go/blob/master/README.md
